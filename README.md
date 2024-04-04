@@ -144,7 +144,7 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for MS Visual Studio Code -->
-        <img src="https://worldvectorlogo.com/logo/visual-studio-code-1.svg" alt="ms_visual_studio_code" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="ms_visual_studio_code" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for PyCharm -->
