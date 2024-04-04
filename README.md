@@ -81,10 +81,6 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for Shell scripting -->
-        <img src="#" alt="shell_scripting" width="40" height="40"/>
-    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
     </a>
@@ -102,12 +98,11 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for Express Framework -->
-        <img src="#" alt="express_framework" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express_framework" width="40" height="40"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for REST API -->
+    <!-- <a href="#" target="_blank" rel="noreferrer">
         <img src="#" alt="rest_api" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -122,7 +117,7 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for BigQuery -->
-        <img src="#" alt="bigquery" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="bigquery" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -132,15 +127,11 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for Postman -->
-        <img src="#" alt="postman" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for JIRA -->
-        <img src="#" alt="jira" width="40" height="40"/>
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for pgAdmin 4 -->
-        <img src="#" alt="pgadmin_4" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jira" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for MS Visual Studio Code -->
@@ -148,7 +139,7 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for PyCharm -->
-        <img src="https://worldvectorlogo.com/logo/pycharm-2.svg" alt="pycharm" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/pycharm-2.svg" alt="pycharm" width="40" height="40"/>
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
