@@ -1,8 +1,7 @@
-<!--
+
 <div id="header" align="center">
-  <img src="https://github.com/theDikshaSaxena/theDikshaSaxena/blob/main/dikshabitmoji.png" width="200"/>
+  <img src="https://github.com/patel-dhaval/patel-dhaval/blob/main/github_profile.png" width="200"/>
 </div>
--->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/patel-dhaval/">
