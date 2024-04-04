@@ -17,8 +17,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patel-dhaval&label=Profile%20views&color=0e75b6&style=flat" alt="patel-dhaval" /> </p>
 
-![](https://hit.yhype.me/github/profile?user_id=17925323)
-
 - 😄 Pronouns: **He/Him**
 
 <!--
@@ -158,3 +156,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=17925323)
