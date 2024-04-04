@@ -134,7 +134,7 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
         <img src="https://cdn.worldvectorlogo.com/logos/pycharm-2.svg" alt="pycharm" width="40" height="40"/>
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo-1.svg" alt="tableau" width="40" height="40"/>
     </a>
 </p>
 
