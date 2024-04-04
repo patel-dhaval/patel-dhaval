@@ -63,16 +63,122 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
 
 <h3 align="left">Languages and Tools:</h3>
 
-🚀 **Languages**: Java, Python, JavaScript, Solidity, MySQL, C, C++, HTML, CSS, Go, XML, JSON, JQuery, PostgreSQL.
+🚀 **Languages**: Java, Python, JavaScript, MySQL, C, HTML, CSS, XML, JSON, PostgreSQL.
 
-🛠️ **Frameworks**: Spring Boot, Node.js, Express.js, React.js, PyTorch, Bootstrap, Tensorflow, Flask, Transformers, NLTK, HuggingFace.
+🛠️ **Frameworks**: Node.js, Express.js, React.js, Bootstrap, Flask, FastAPI, Django.
 
-🌐 **Technologies**: Spring, REST API, JDBC, MongoDB, Git, Solr, Tableau, PowerBI, AWS, Docker, Kubernetes.
+🌐 **Technologies**: REST API, JDBC, MongoDB, Git, Tableau, PowerBI, AWS, Docker, Kubernetes.
 
-📜 **Certifications**: Workday HCM and Integrations Core, Web Developer Bootcamp, Microsoft Azure Fundamentals AZ-900.
+<!-- 📜 **Certifications**: Workday HCM and Integrations Core, Web Developer Bootcamp, Microsoft Azure Fundamentals AZ-900. -->
 
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> 
+<p align="left">
+    <a href="https://python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Shell scripting -->
+        <img src="#" alt="shell_scripting" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Express Framework -->
+        <img src="#" alt="express_framework" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for REST API -->
+        <img src="#" alt="rest_api" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for BigQuery -->
+        <img src="#" alt="bigquery" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Postman -->
+        <img src="#" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for JIRA -->
+        <img src="#" alt="jira" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for pgAdmin 4 -->
+        <img src="#" alt="pgadmin_4" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for MS Visual Studio Code -->
+        <img src="#" alt="ms_visual_studio_code" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for PyCharm -->
+        <img src="#" alt="pycharm" width="40" height="40"/>
+    </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Reporting -->
+        <img src="#" alt="reporting" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Dashboard Creation -->
+        <img src="#" alt="dashboard_creation" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Business Interaction -->
+        <img src="#" alt="business_interaction" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Automation -->
+        <img src="#" alt="automation" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for Business Intelligence Tools -->
+        <img src="#" alt="business_intelligence_tools" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <!-- Placeholder for SAP Products -->
+        <img src="#" alt="sap_products" width="40" height="40"/>
+    </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
