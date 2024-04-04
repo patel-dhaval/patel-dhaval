@@ -91,7 +91,7 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="django" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -100,9 +100,6 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
         <!-- Placeholder for Express Framework -->
         <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express_framework" width="40" height="40"/>
     </a>
-    <!-- <a href="#" target="_blank" rel="noreferrer">
-        <img src="#" alt="rest_api" width="40" height="40"/>
-    </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -116,7 +113,6 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for BigQuery -->
         <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="bigquery" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -126,19 +122,15 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for Postman -->
         <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for JIRA -->
         <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jira" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for MS Visual Studio Code -->
         <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="ms_visual_studio_code" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <!-- Placeholder for PyCharm -->
         <img src="https://cdn.worldvectorlogo.com/logos/pycharm-2.svg" alt="pycharm" width="40" height="40"/>
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
