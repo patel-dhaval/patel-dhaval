@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/patel-dhaval/patel-dhaval/blob/main/github_profile.png" width="200"/>
+  <img src="https://github.com/patel-dhaval/patel-dhaval/blob/main/github_profile_new.jepg" width="200"/>
 </div>
 
 <div id="badges" align="center">
