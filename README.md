@@ -144,11 +144,11 @@ BERT to get most relevant response. Carried out Text Pre-Processing and Prepared
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for MS Visual Studio Code -->
-        <img src="https://worldvectorlogo.com/logo/visual-studio-code-1" alt="ms_visual_studio_code" width="40" height="40"/>
+        <img src="https://worldvectorlogo.com/logo/visual-studio-code-1.svg" alt="ms_visual_studio_code" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <!-- Placeholder for PyCharm -->
-        <img src="https://worldvectorlogo.com/logo/pycharm-2" alt="pycharm" width="40" height="40"/>
+        <img src="https://worldvectorlogo.com/logo/pycharm-2.svg" alt="pycharm" width="40" height="40"/>
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
