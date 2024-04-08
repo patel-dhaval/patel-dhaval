@@ -41,6 +41,7 @@
 Here's a glimpse into my world of coding and creation:
 
 1. 🚀 **AdmitWise: Data Driven Solution for Universities**
+   
    - 🌌 *Description*: Engineered an Admissions Portal transforming applicant assessment for the School of Engineering and School of Management. Utilizing advanced AI and NLP models, we meticulously evaluate resumes, SOPs, and test scores, ranking applicants with precision. Furthermore, we've pioneered a dataset to train, fine-tune, and test models, extracting relevant text for diverse evaluation criteria and scoring. Revolutionizing college admissions through innovative technology and insightful analytics.
    - 🛠️ *Tech Stack*: React.js, MongoDB, DeBERTa, GPT- 3.5 turbo, Python
 <!--   - 🔗 *GitHub Link*: <a href="https://github.com/theDikshaSaxena/ChatBot" target="_blank">GitHub Repo</a> -->
