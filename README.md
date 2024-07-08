@@ -33,7 +33,7 @@
   
 - 🗓️ Schedule a meeting with me: [Calendly](https://calendly.com/patel-dhaval)
 
-- Please take a moment to review my professional resume. It's a comprehensive snapshot of my qualifications, experience, and expertise. - <a href="https://drive.google.com/file/d/1nVGw3VNPWuzWtdF7U8NwqwOYfRq7Ay5o/view" target="_blank">Resume</a>
+- Please take a moment to review my professional resume. It's a comprehensive snapshot of my qualifications, experience, and expertise. - <a href="https://drive.google.com/drive/folders/1J-UhypX0mf2Sb16wZ1D6yGofU1_CaCoF?usp=sharing" target="_blank">Resume</a>
 
 
 <h3 align="left">Featured Projects</h3>
